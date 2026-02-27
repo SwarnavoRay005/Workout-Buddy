@@ -98,7 +98,7 @@ npm start
 
 Server runs at:
 ```
-http://localhost:5000
+http://localhost:2000
 ```
 
 ---
@@ -115,7 +115,7 @@ npm start
 
 Frontend runs at:
 ```
-http://localhost:3000
+http://localhost:5173
 ```
 
 ---
